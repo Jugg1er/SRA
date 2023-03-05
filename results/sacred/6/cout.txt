@@ -7374,3 +7374,12 @@ return_mean:              11.1281	return_std:                1.4057	target_mean:
 test_battle_won_mean:      0.0000	test_dead_allies_mean:     6.0000	test_dead_enemies_mean:    2.3813	test_ep_length_mean:      28.2250
 test_return_mean:         12.1184	test_return_std:           1.3828	
 [INFO 13:10:26] my_main Updated target network
+[INFO 13:12:53] my_main t_env: 4616026 / 5050000
+[INFO 13:12:53] my_main Estimated time left: 2 hours, 42 minutes, 40 seconds. Time passed: 1 days, 1 hours, 30 minutes, 51 seconds
+[INFO 13:13:03] my_main Recent Stats | t_env:    4616026 | Episode:   175858
+battle_won_mean:           0.0005	dead_allies_mean:          5.9957	dead_enemies_mean:         1.8455	ep_length_mean:           26.9804
+epsilon:                   0.0500	grad_norm:                 1.6567	loss:                      0.1083	q_taken_mean:              0.8108
+return_mean:              11.1449	return_std:                1.4094	target_mean:               0.8056	td_error_abs:              0.2130
+test_battle_won_mean:      0.0000	test_dead_allies_mean:     6.0000	test_dead_enemies_mean:    2.3625	test_ep_length_mean:      28.1125
+test_return_mean:         12.0409	test_return_std:           1.3325	
+[INFO 13:14:11] my_main Updated target network

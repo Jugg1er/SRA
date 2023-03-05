@@ -5348,3 +5348,9 @@ epsilon:                   0.0500	grad_norm:                 1.0162	loss:       
 return_mean:              17.9317	return_std:                3.5733	target_mean:               1.0583	td_error_abs:              0.1560
 test_battle_won_mean:      0.8063	test_dead_allies_mean:     3.3500	test_dead_enemies_mean:   22.8188	test_ep_length_mean:     106.3937
 test_return_mean:         18.9674	test_return_std:           2.5663	
+[INFO 13:12:54] my_main Recent Stats | t_env:    3339853 | Episode:    42801
+battle_won_mean:           0.6795	dead_allies_mean:          3.8356	dead_enemies_mean:        21.9301	ep_length_mean:          109.7167
+epsilon:                   0.0500	grad_norm:                 1.6311	loss:                      0.0679	q_taken_mean:              1.0833
+return_mean:              18.0502	return_std:                3.5415	target_mean:               1.0721	td_error_abs:              0.1716
+test_battle_won_mean:      0.8375	test_dead_allies_mean:     3.2313	test_dead_enemies_mean:   23.0000	test_ep_length_mean:     109.2375
+test_return_mean:         19.1670	test_return_std:           2.3892	

@@ -7316,3 +7316,45 @@ return_mean:              11.3218	return_std:                1.5449	target_mean:
 test_battle_won_mean:      0.0250	test_dead_allies_mean:     5.9437	test_dead_enemies_mean:    2.4625	test_ep_length_mean:      28.5125
 test_return_mean:         12.1185	test_return_std:           1.9185	
 [INFO 13:10:36] my_main Updated target network
+[INFO 13:13:12] my_main t_env: 4586003 / 5050000
+[INFO 13:13:12] my_main Estimated time left: 2 hours, 42 minutes, 55 seconds. Time passed: 1 days, 1 hours, 30 minutes, 31 seconds
+[INFO 13:13:22] my_main Recent Stats | t_env:    4586003 | Episode:   172491
+battle_won_mean:           0.0033	dead_allies_mean:          5.9912	dead_enemies_mean:         1.9297	ep_length_mean:           27.5200
+epsilon:                   0.0500	grad_norm:                 1.1117	loss:                      0.0907	q_taken_mean:              0.8467
+return_mean:              11.3097	return_std:                1.5389	target_mean:               0.8528	td_error_abs:              0.2173
+test_battle_won_mean:      0.0250	test_dead_allies_mean:     5.9437	test_dead_enemies_mean:    2.4750	test_ep_length_mean:      28.5250
+test_return_mean:         12.1480	test_return_std:           1.8924	
+[INFO 13:14:18] my_main Updated target network
+unable to parse websocket frame.
+[INFO 13:14:34] absl Shutdown gracefully.
+[INFO 13:14:34] absl Shutdown with return code: -15
+[INFO 13:14:34] absl Launching SC2: /home/zgc/StarCraftII/Versions/Base69232/SC2_x64 -listen 127.0.0.1 -port 44829 -dataDir /home/zgc/StarCraftII/ -tempDir /tmp/sc-7z5yrh6f/
+[INFO 13:14:35] absl Connecting to: ws://127.0.0.1:44829/sc2api, attempt: 0, running: True
+Version: B69232 (SC2.4.6-Publish)
+Build: Oct 23 2018 01:43:04
+Command Line: '"/home/zgc/StarCraftII/Versions/Base69232/SC2_x64" -listen 127.0.0.1 -port 44829 -dataDir /home/zgc/StarCraftII/ -tempDir /tmp/sc-7z5yrh6f/'
+Starting up...
+Startup Phase 1 complete
+[INFO 13:14:36] absl Connecting to: ws://127.0.0.1:44829/sc2api, attempt: 1, running: True
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:44829
+Startup Phase 3 complete. Ready for commands.
+[INFO 13:14:37] absl Connecting to: ws://127.0.0.1:44829/sc2api, attempt: 2, running: True
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame

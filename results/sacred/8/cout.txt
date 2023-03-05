@@ -6941,3 +6941,4 @@ test_return_mean:         12.3939	test_return_std:           2.0409
 [INFO 13:11:40] my_main Updated target network
 [INFO 13:11:42] my_main t_env: 4345635 / 5050000
 [INFO 13:11:42] my_main Estimated time left: 4 hours, 31 minutes, 55 seconds. Time passed: 1 days, 1 hours, 29 minutes, 24 seconds
+[INFO 13:13:45] my_main Updated target network

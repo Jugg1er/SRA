@@ -7130,3 +7130,4 @@ return_mean:              11.3838	return_std:                1.5790	target_mean:
 test_battle_won_mean:      0.0375	test_dead_allies_mean:     5.9188	test_dead_enemies_mean:    2.5500	test_ep_length_mean:      28.6375
 test_return_mean:         12.4903	test_return_std:           2.0009	
 [INFO 13:09:54] my_main Updated target network
+[INFO 13:13:55] my_main Updated target network
